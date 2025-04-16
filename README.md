@@ -1,4 +1,4 @@
-# solana-labs-practice
+# Solana Labs Practice
 ⚡ My Solana development journey through official Solana Labs guides and examples.
 
 Day-1 🔥 Added file generate-keypair.ts - Generating keypairs with @solana/web3.js
