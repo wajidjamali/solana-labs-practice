@@ -4,3 +4,5 @@
 Day-1 🔥 Added file generate-keypair.ts - Generating keypairs with @solana/web3.js
 
 Day-2 🔥 Added file check-balance.ts - Checking balance of public key with Typescript
+
+Day-3 🔥 Creating Transactions on the Solana Network
